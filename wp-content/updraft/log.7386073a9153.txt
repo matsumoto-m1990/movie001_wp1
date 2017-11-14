@@ -1,0 +1,8 @@
+0000.005 () Opened log file at time: Tue, 15 Aug 2017 14:32:16 +0000 on http://movie001.php.xdomain.jp
+0000.005 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.30 WP: 4.8.1 PHP: 5.6.30 (cgi-fcgi, Linux sv3.php.xdomain.ne.jp 2.6.18-420.el5.BET #1 SMP Tue Jun 20 12:06:33 JST 2017 x86_64) MySQL: 5.0.95 WPLANG: ja Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 21.7M | 22.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 () Free space on disk containing Updraft's temporary directory: 820502.1 MB
+0000.006 () Restore job started. Entities to restore: plugins, themes, uploads, others. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.040 () Error message: 前の復元が未削除フォルダを存在（再試行する前にそれらを削除するには、「古いディレクトリを削除」ボタンを使用してください）：/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/plugins-old
+0000.042 () Restore failed...
+0000.042 () Error message: 前の復元が未削除フォルダを存在（再試行する前にそれらを削除するには、「古いディレクトリを削除」ボタンを使用してください）：/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/plugins-old
+0000.042 () Restore failed

@@ -1,0 +1,508 @@
+# Translation of Themes - Storefront in Japanese
+# This file is distributed under the same license as the Themes - Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-17 13:58:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Storefront\n"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Description of the plugin/theme
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customise and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "Storefront は WooCommerce サイト作成にぴったりのテーマです。WooThemes がデザインし開発しています。販売されている WooCommerce プラグインと統合しやすくなっています。レイアウトや色合いなどでお店の個性をだすことが可能です。レスポンシブデザインや数多くのウィジェットが利用可能です。開発者は拡張コードベースでカスタマイズして機能拡張することができます。WooCommerce テーマを探しますか？もう探す必要はありません！"
+
+#: inc/class-storefront.php:142
+msgid "Widgets added to this region will appear beneath the header and above the main content."
+msgstr "この領域に追加されたウィジェットは、ヘッダーの下と、メインコンテンツの上に表示されます。"
+
+#: inc/admin/welcome-screen/component-contribute.php:15
+msgid "Download Theme Customisations"
+msgstr "テーマカスタマイズのダウンロード"
+
+#: inc/admin/welcome-screen/component-contribute.php:11
+msgid "We highly encourage you to make %s all yours. If you need to make a CSS tweak or add some custom JS or PHP, please use our Theme Customisations Plugin. Simply Click the button below, install as normal, and start Customizing today!"
+msgstr "%s のすべてをご自身で作ることをおすすめします。CSS の微調整、カスタム JS や PHP を追加したい場合は、わたしたちのテーマカスタマイズプラグインをお使いください。下のボタンをクリックし、いつもどおりの方法でインストールして、カスタマイズをはじめましょう!"
+
+#: inc/admin/welcome-screen/component-contribute.php:10
+msgid "Customise Storefront"
+msgstr "Storefront のカスタマイズ"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:327
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:300
+msgid "Search"
+msgstr "検索"
+
+#: inc/storefront-template-functions.php:738
+msgid "Best Sellers"
+msgstr "ベストセラー"
+
+#: inc/storefront-template-functions.php:662
+msgid "Fan Favorites"
+msgstr "お気に入り"
+
+#: inc/storefront-template-functions.php:621
+msgid "We Recommend"
+msgstr "おすすめ"
+
+#: inc/storefront-template-functions.php:580
+msgid "New In"
+msgstr "新規"
+
+#: inc/storefront-template-functions.php:539
+msgid "Shop by Category"
+msgstr "カテゴリ別ショップ"
+
+#: inc/storefront-template-functions.php:443
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/storefront-template-functions.php:433
+msgid "Tagged"
+msgstr "タグ"
+
+#: inc/storefront-template-functions.php:420
+msgid "Posted in"
+msgstr "カテゴリ"
+
+#: inc/storefront-template-functions.php:409
+msgid "Written by"
+msgstr "投稿者 "
+
+#: inc/storefront-template-functions.php:231
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/admin/welcome-screen/component-intro.php:66
+msgid "Stay up to date with Storefront developments on the %sdev blog%s."
+msgstr "%s開発ブログ%sで、Storefront の最新情報を掲載しています。"
+
+#: inc/admin/welcome-screen/component-enhance.php:39
+#: inc/admin/welcome-screen/component-enhance.php:81
+#: inc/admin/welcome-screen/component-enhance.php:111
+msgid "We're currently unable to retrieve these products. Please double check your internet connection or try back later."
+msgstr "現在これらの製品を取得できません。インターネット接続を確認するか、後でもう一度やり直してください。"
+
+#: inc/admin/welcome-screen/component-contribute.php:32
+msgid "You can find a wide range of information on how to use and customise %s in our %sdocumentation%s. If you're a customer you can get support in our %sHelpdesk%3$s. Otherwise you can try posting on the WordPress.org %ssupport forums%3$s."
+msgstr " %s をカスタマイズする方法についての情報の広い範囲で当社の%sドキュメント%sで見つけることができます。あなたが顧客であれば、あなたは私たちの%sヘルプデスク%3$sでのサポートを受けることができます。そうしないと、WordPress.orgの%sサポートフォーラム%3$sに投稿してみてくださいすることができます。"
+
+#: inc/admin/welcome-screen/component-contribute.php:31
+msgid "Get support"
+msgstr "サポートを受ける"
+
+#: inc/class-storefront.php:140
+msgid "Below Header"
+msgstr "ヘッダーの下"
+
+#: inc/admin/welcome-screen/component-intro.php:58
+msgid "Customizer settings"
+msgstr "カスタマイズ設定"
+
+#: inc/customizer/class-storefront-customizer-control-more.php:31
+msgid "Enjoying %s?"
+msgstr "%s を気に入っていただけていますか ?"
+
+#: inc/admin/welcome-screen/component-intro.php:57
+msgid "FAQ"
+msgstr "よくある質問と答え"
+
+#: inc/admin/welcome-screen/component-intro.php:56
+msgid "Installation &amp; configuration"
+msgstr "インストール &amp; 構成"
+
+#: inc/admin/welcome-screen/component-intro.php:54
+msgid "Featured Docs"
+msgstr "おすすめのドキュメント"
+
+#: inc/admin/welcome-screen/component-intro.php:34
+msgid "Recent News"
+msgstr "最新ニュース"
+
+#: inc/admin/welcome-screen/component-intro.php:31
+msgid "Latest %s news"
+msgstr "%s の新着情報"
+
+#: inc/admin/welcome-screen/component-intro.php:26
+msgid "Install %s"
+msgstr "%s をインストール"
+
+#: inc/admin/welcome-screen/component-intro.php:19
+msgid "Built to enrich your %s store"
+msgstr "%s ショップを充実させるために構築されました。"
+
+#: inc/admin/welcome-screen/component-intro.php:14
+msgid "%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really appreciate it!"
+msgstr "%s %s を楽しんでいますか？%sWordPress.org に%sレビューをして%s貰えると嬉しいです！"
+
+#: inc/admin/welcome-screen/component-enhance.php:86
+msgid "View all %s child themes &rarr;"
+msgstr "%s の子テーマをすべて表示 &rarr;"
+
+#: inc/admin/welcome-screen/component-enhance.php:53
+msgid "Take a look at our range of child themes for %s that allow you to easily change the look of your store to suit a specific industry."
+msgstr "%s の子テーマで簡単に変更ができる、商品の種別などに適したテーマを見てみましょう。"
+
+#: inc/admin/welcome-screen/component-enhance.php:52
+msgid "Child themes"
+msgstr "子テーマ"
+
+#: inc/admin/welcome-screen/component-enhance.php:94
+msgid "There are a number of free plugins available for %s on the WordPress.org %splugin repository%s. Here's a few we made earlier:"
+msgstr "%sのために使える無料のプラグインは、WordPress.org の%s公式プラグイン%sにあります。ここでは、いくつか紹介します。:"
+
+#: inc/admin/welcome-screen/component-enhance.php:46
+msgid "View all %s extensions &rarr;"
+msgstr "%s の追加機能プラグインをすべて表示 &rarr;"
+
+#: inc/admin/welcome-screen/component-enhance.php:22
+msgid "Take a look at our range of extensions that extend and enhance %s functionality."
+msgstr "%sの拡張機能と補完の拡張プラグインを見てみましょう。"
+
+#: inc/admin/welcome-screen/component-enhance.php:20
+msgid "Enhance %s"
+msgstr "%sの機能強化"
+
+#: inc/admin/welcome-screen/component-contribute.php:38
+msgid "An %s project"
+msgstr "%s プロジェクト"
+
+#: inc/admin/welcome-screen/component-contribute.php:27
+msgid "Please suggest and vote on ideas at the %s%s Ideas board%s. The most popular ideas will see prioritised development."
+msgstr "%s%s アイデアボード%sの提案に提案したり投票して下さい。人気のある提案から開発が優先的に行われます。"
+
+#: inc/admin/welcome-screen/component-contribute.php:26
+msgid "Suggest a feature"
+msgstr "機能を提案"
+
+#: inc/admin/welcome-screen/component-contribute.php:21
+msgid "Contribute to Storefront"
+msgstr "Storefront に貢献する"
+
+#: inc/admin/welcome-screen/component-intro.php:24
+msgid "%s is activated"
+msgstr "%sは有効です"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:225
+msgid "On Sale Now"
+msgstr "セール中"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:233
+msgid "New In Store"
+msgstr "新商品"
+
+#: inc/admin/welcome-screen/component-enhance.php:62
+#: inc/admin/welcome-screen/component-enhance.php:106
+msgid "Free!"
+msgstr "無料！"
+
+#: inc/admin/welcome-screen/component-enhance.php:92
+msgid "Install free plugins"
+msgstr "無料プラグインのインストール"
+
+#: inc/customizer/class-storefront-customizer.php:234
+msgid "Header background image"
+msgstr "ヘッダー背景画像"
+
+#: inc/storefront-template-functions.php:461
+msgctxt "Next post"
+msgid "Next"
+msgstr "次のページヘ"
+
+#: inc/storefront-template-functions.php:462
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "前へ"
+
+#: 404.php:58
+msgid "Popular Products"
+msgstr "人気商品"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "この場所では何も見つかりませんでした。再度検索するか、以下のリンクをチェックしてください。"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "ホームページ"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "全幅"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:75
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d件の商品"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: 404.php:47
+msgid "Product Categories"
+msgstr "商品カテゴリー"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:217
+msgid "Featured Products"
+msgstr "注目商品"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:74
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:313
+msgid "View your shopping cart"
+msgstr "ショッピングカートを見る"
+
+#: inc/storefront-template-functions.php:701
+msgid "On Sale"
+msgstr "販売中"
+
+#: inc/storefront-template-functions.php:500
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/storefront-template-functions.php:444
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/storefront-template-functions.php:444
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/storefront-template-functions.php:444
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:415
+#: inc/storefront-template-functions.php:428
+msgid ", "
+msgstr ", "
+
+#: inc/storefront-template-functions.php:377
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/storefront-template-functions.php:322
+#: inc/storefront-template-functions.php:385
+msgid "Pages:"
+msgstr "ページ:"
+
+#: inc/storefront-template-functions.php:286
+msgid "Skip to navigation"
+msgstr "ナビゲーションへスキップ"
+
+#: inc/storefront-template-functions.php:262
+msgid "Secondary Navigation"
+msgstr "サブナビゲーション"
+
+#: inc/storefront-template-functions.php:287
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/storefront-template-functions.php:128
+msgid "%1$s designed by %2$s."
+msgstr "%1$s designed by %2$s."
+
+#: inc/storefront-template-functions.php:230
+msgid "Primary Navigation"
+msgstr "メインナビゲーション"
+
+#: inc/storefront-template-functions.php:64
+msgid "Edit"
+msgstr "編集"
+
+#: inc/class-storefront.php:151
+msgid "Footer %d"
+msgstr "フッター %d"
+
+#: inc/class-storefront.php:153
+msgid "Widgetized Footer Region %d."
+msgstr "フッターエリア %d をウィジェット化する。"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/class-storefront.php:88
+msgid "Handheld Menu"
+msgstr "携帯用メニュー"
+
+#: inc/class-storefront.php:134
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/class-storefront.php:87
+msgid "Secondary Menu"
+msgstr "第2メニュー"
+
+#: inc/customizer/class-storefront-customizer.php:460
+msgid "Looking for more options?"
+msgstr "オプションを表示"
+
+#: inc/class-storefront.php:86
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/customizer/class-storefront-customizer.php:437
+msgid "General Layout"
+msgstr "一般的なレイアウト"
+
+#: inc/customizer/class-storefront-customizer.php:450
+msgid "More"
+msgstr "続き"
+
+#: inc/customizer/class-storefront-customizer.php:289
+msgid "Customise the look & feel of your web site footer."
+msgstr "サイトのフッターの外観をカスタマイズする。"
+
+#: inc/customizer/class-storefront-customizer.php:358
+msgid "Customise the look & feel of your web site buttons."
+msgstr "サイトのボタンの外観をカスタマイズする。"
+
+#: inc/customizer/class-storefront-customizer.php:356
+msgid "Buttons"
+msgstr "ボタン"
+
+#: inc/customizer/class-storefront-customizer.php:415
+msgid "Alternate button text color"
+msgstr "代替ボタンのテキスト色"
+
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Alternate button background color"
+msgstr "代替ボタンの背景色"
+
+#: inc/customizer/class-storefront-customizer.php:425
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/class-storefront-customizer.php:287
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/class-storefront-customizer.php:277
+#: inc/customizer/class-storefront-customizer.php:346
+msgid "Link color"
+msgstr "リンク色"
+
+#: inc/customizer/class-storefront-customizer.php:247
+#: inc/customizer/class-storefront-customizer.php:301
+#: inc/customizer/class-storefront-customizer.php:370
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/customizer/class-storefront-customizer.php:195
+#: inc/customizer/class-storefront-customizer.php:316
+msgid "Heading color"
+msgstr "見出し色"
+
+#: inc/customizer/class-storefront-customizer.php:225
+msgid "Link / accent color"
+msgstr "リンク / アクセントカラー"
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:262
+#: inc/customizer/class-storefront-customizer.php:331
+#: inc/customizer/class-storefront-customizer.php:385
+msgid "Text color"
+msgstr "文字色"
+
+#: inc/customizer/class-storefront-customizer.php:182
+msgid "Typography"
+msgstr "文字装飾"
+
+#: inc/customizer/class-storefront-customizer.php:144
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/admin/welcome-screen/component-contribute.php:22
+msgid "Found a bug? Want to contribute a patch or create a new feature? %sGitHub is the place to go!%s Or would you like to translate %s into your language? %sGet involved on WordPress.org%s."
+msgstr "バグを見つけましたか？新しい機能を作ったり開発の手助けをしませんか？でしたら、GitHubへどうぞ！また、Storefrontの翻訳を手伝いませんか？それならTransifexに参加してください。"
+
+#: inc/admin/class-storefront-admin.php:57
+msgid "Get started with Storefront"
+msgstr "Storefront をはじめましょう"
+
+#: inc/admin/class-storefront-admin.php:56
+msgid "Thanks for choosing Storefront! You can read hints and tips on how get the most out of your new theme on the %swelcome screen%s."
+msgstr "Storefront をお選びいただき、ありがとうございます。%sようこそ画面%sで、新しいテーマを最大限に活用するためのヒントやコツをお読みください。"
+
+#: inc/customizer/class-storefront-customizer-control-more.php:28
+msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr "%s には多数の機能拡張エクステンションがあり、さらにサイトを強化できます。ダッシュボードの %s%s%s ページで詳細をご覧ください。"
+
+#: inc/customizer/class-storefront-customizer-control-more.php:34
+msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "%sWordPress.org%s にレビューを投稿してもらえませんか。そうしていただければとても嬉しいです。"
+
+#: inc/customizer/class-storefront-customizer.php:140
+msgid "Background"
+msgstr "背景"
+
+#: inc/admin/welcome-screen/component-intro.php:21
+msgid "Although %s works fine as a regular WordPress theme, it really shines when used for an online store. Install %s and start selling now."
+msgstr "%s は通常の WordPress テーマとしても正常に動作しますが、オンラインストア用に使われる場合に特に威力を発揮します。 %s をインストールして、いますぐ販売を始めてみてください。"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツは見つかりません。検索をお試しください。"
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありません。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://woocommerce.com/storefront"
+msgstr "https://woocommerce.com/storefront"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"

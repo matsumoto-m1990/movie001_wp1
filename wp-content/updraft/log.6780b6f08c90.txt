@@ -1,0 +1,311 @@
+0000.000 (0) Opened log file at time: Sun, 12 Feb 2017 06:22:11 +0000 on http://movie001.php.xdomain.jp
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.30 WP: 4.6.3 PHP: 5.6.22 (cgi-fcgi, Linux sv3.php.xdomain.ne.jp 2.6.18-417.el5.BET #1 SMP Sun Dec 25 18:58:55 JST 2016 x86_64) MySQL: 5.0.95 WPLANG: ja Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 18.6M | 19.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 1250416.4 MB
+0000.013 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.032 (0) Set semaphore last lock (fd) time to 2017-02-12 06:22:11
+0000.041 (0) Semaphore lock (fd) complete
+0000.055 (0) Backup run: resumption=0, nonce=6780b6f08c90, begun at=1486880531 (0s ago), job type=backup
+0000.057 (0) Scheduling a resumption (1) after 300 seconds (1486880831) in case this run gets aborted
+0000.101 (0) Checking if we have a zip executable available
+0000.119 (0) Creation of backups of directories: beginning
+0000.131 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.177 (0) Total entities for the zip file: 457 directories, 2873 files (0 skipped as non-modified), 40.5 MB
+0001.218 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.247 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.285 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.315 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.346 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.347 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 2873 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.139 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 600 files added (on-disk size: 3185.8 KB)
+0002.182 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 700 files added (on-disk size: 3185.8 KB)
+0002.224 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 800 files added (on-disk size: 3185.8 KB)
+0002.260 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 900 files added (on-disk size: 3185.8 KB)
+0002.299 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1000 files added (on-disk size: 3185.8 KB)
+0002.301 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 2873 files batched, 501 (1002) added so far); re-opening (prior size: 3185.8 KB)
+0002.658 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1100 files added (on-disk size: 4397.2 KB)
+0002.691 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1200 files added (on-disk size: 4397.2 KB)
+0002.726 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1300 files added (on-disk size: 4397.2 KB)
+0002.763 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1400 files added (on-disk size: 4397.2 KB)
+0002.803 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1500 files added (on-disk size: 4397.2 KB)
+0002.805 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.6 MB, 2873 files batched, 501 (1503) added so far); re-opening (prior size: 4397.2 KB)
+0004.024 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1600 files added (on-disk size: 7257.5 KB)
+0004.076 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1700 files added (on-disk size: 7257.5 KB)
+0004.139 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1800 files added (on-disk size: 7257.5 KB)
+0004.203 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 1900 files added (on-disk size: 7257.5 KB)
+0004.258 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2000 files added (on-disk size: 7257.5 KB)
+0004.263 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4 MB, 2873 files batched, 501 (2004) added so far); re-opening (prior size: 7257.5 KB)
+0004.846 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2100 files added (on-disk size: 8657.4 KB)
+0004.904 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2200 files added (on-disk size: 8657.4 KB)
+0004.957 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2300 files added (on-disk size: 8657.4 KB)
+0005.017 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2400 files added (on-disk size: 8657.4 KB)
+0005.064 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2500 files added (on-disk size: 8657.4 KB)
+0005.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 2873 files batched, 501 (2505) added so far); re-opening (prior size: 8657.4 KB)
+0005.897 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2600 files added (on-disk size: 10258.8 KB)
+0005.943 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2700 files added (on-disk size: 10258.8 KB)
+0005.986 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip.tmp: 2800 files added (on-disk size: 10258.8 KB)
+0007.843 (0) Created plugins zip (0) - 14684 KB in 7.7 s (1904.7 KB/s) (SHA1 checksum: 2752a10092029b88a2c4ef3342ccc885454f04a2)
+0007.846 (0) Beginning creation of dump of themes (split every: 400 MB)
+0008.539 (0) Total entities for the zip file: 346 directories, 2064 files (0 skipped as non-modified), 46 MB
+0008.576 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.607 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0008.633 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0008.659 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0008.687 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0008.689 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.1 MB, 2064 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0011.245 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 600 files added (on-disk size: 11376.1 KB)
+0011.275 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 700 files added (on-disk size: 11376.1 KB)
+0011.306 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 800 files added (on-disk size: 11376.1 KB)
+0011.334 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 900 files added (on-disk size: 11376.1 KB)
+0011.366 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1000 files added (on-disk size: 11376.1 KB)
+0011.368 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.6 MB, 2064 files batched, 501 (1002) added so far); re-opening (prior size: 11376.1 KB)
+0012.839 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1100 files added (on-disk size: 16291.7 KB)
+0012.886 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1200 files added (on-disk size: 16291.7 KB)
+0012.944 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1300 files added (on-disk size: 16291.7 KB)
+0014.744 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1400 files added (on-disk size: 16291.7 KB)
+0014.777 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1500 files added (on-disk size: 16291.7 KB)
+0014.779 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.7 MB, 2064 files batched, 501 (1503) added so far); re-opening (prior size: 16291.7 KB)
+0016.174 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1600 files added (on-disk size: 21775.7 KB)
+0016.210 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1700 files added (on-disk size: 21775.7 KB)
+0016.251 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1800 files added (on-disk size: 21775.7 KB)
+0016.290 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 1900 files added (on-disk size: 21775.7 KB)
+0016.326 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip.tmp: 2000 files added (on-disk size: 21775.7 KB)
+0016.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.3 MB, 2064 files batched, 501 (2004) added so far); re-opening (prior size: 21775.7 KB)
+0017.987 (0) Created themes zip (0) - 28427.6 KB in 10.1 s (2804 KB/s) (SHA1 checksum: f75198044198e80782d9d2ae3d02a31cfad5d40f)
+0017.990 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.999 (0) Looking for candidates to back up in: /home/movie001/movie001.php.xdomain.jp/public_html/wp-content/uploads
+0018.000 (0) finding files: 2016: adding to list (1)
+0018.001 (0) finding files: redux: adding to list (2)
+0018.002 (0) finding files: 2017: adding to list (3)
+0018.003 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0018.069 (0) Total entities for the zip file: 7 directories, 238 files (0 skipped as non-modified), 27.8 MB
+0018.098 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0018.129 (0) Zip: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0018.139 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.4 MB, 238 files batched, 205 (205) added so far); re-opening (prior size: 0 KB)
+0019.631 (0) A useful amount of data was added after this amount of zip processing: 1.8 s (normalised: 1.8 s, rate: 14121.5 KB/s)
+0019.642 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.8397920131683, normalised_time=1.8128343454535, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=86762698)
+0020.055 (0) Created uploads zip (0) - 28325.4 KB in 2 s (13823.6 KB/s) (SHA1 checksum: f7ec3a3080b428c0f7e02896b2b7761abd9e1ccd)
+0020.059 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.060 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0020.061 (0) Looking for candidates to back up in: /home/movie001/movie001.php.xdomain.jp/public_html/wp-content
+0020.063 (0) finding files: upgrade: skipping: excluded by options
+0020.064 (0) finding files: plugins-old: adding to list (1)
+0020.065 (0) finding files: uploads-old: adding to list (2)
+0020.074 (0) finding files: uploads: skipping: this is the uploads directory
+0020.076 (0) finding files: mu-plugins: adding to list (3)
+0020.077 (0) finding files: index.php-old: adding to list (4)
+0020.078 (0) finding files: index.php: adding to list (5)
+0020.079 (0) finding files: plugins: skipping: this is the plugins directory
+0020.081 (0) finding files: themes-old: adding to list (6)
+0020.082 (0) finding files: languages-old: adding to list (7)
+0020.083 (0) finding files: languages: adding to list (8)
+0020.091 (0) finding files: updraft: skipping: this is the updraft directory
+0020.092 (0) finding files: themes: skipping: this is the themes directory
+0020.127 (0) Total entities for the zip file: 10 directories, 63 files (0 skipped as non-modified), 4.7 MB
+0020.969 (0) Created others zip (0) - 1339.2 KB in 0.9 s (1547.4 KB/s) (SHA1 checksum: 94885240d7e8f3ecc70eb5adc213ad22d9e1aac2)
+0020.990 (0) Saving backup status to database (elements: 8)
+0021.001 (0) Beginning creation of database dump (WordPress DB)
+0021.031 (0) Table wp_options: Total expected rows (approximate): 1465
+0021.062 (0) Table wp_options: Total rows added: 509 in 0.03 seconds
+0021.071 (0) Table wp_options: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_options.table.gz - 55.8 KB)
+0021.102 (0) Table wp_users: Total expected rows (approximate): 2
+0021.111 (0) Table wp_users: Total rows added: 2 in 0.01 seconds
+0021.122 (0) Table wp_users: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_users.table.gz - 0.6 KB)
+0021.145 (0) Table wp_usermeta: Total expected rows (approximate): 62
+0021.152 (0) Table wp_usermeta: Total rows added: 62 in 0.01 seconds
+0021.153 (0) Table wp_usermeta: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_usermeta.table.gz - 2.3 KB)
+0021.183 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0021.188 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0021.189 (0) Table wp_commentmeta: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0021.229 (0) Table wp_comments: Total expected rows (approximate): 4
+0021.236 (0) Table wp_comments: Total rows added: 4 in 0.01 seconds
+0021.238 (0) Table wp_comments: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_comments.table.gz - 4.2 KB)
+0021.275 (0) Table wp_links: Total expected rows (approximate): 0
+0021.282 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0021.283 (0) Table wp_links: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_links.table.gz - 0.4 KB)
+0021.319 (0) Table wp_postmeta: Total expected rows (approximate): 1244
+0021.371 (0) Table wp_postmeta: Total rows added: 1399 in 0.05 seconds
+0021.379 (0) Table wp_postmeta: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_postmeta.table.gz - 18.8 KB)
+0021.411 (0) Table wp_posts: Total expected rows (approximate): 349
+0021.492 (0) Table wp_posts: Total rows added: 349 in 0.08 seconds
+0021.494 (0) Table wp_posts: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_posts.table.gz - 94.3 KB)
+0021.526 (0) Table wp_term_relationships: Total expected rows (approximate): 171
+0021.532 (0) Table wp_term_relationships: Total rows added: 171 in 0.00 seconds
+0021.533 (0) Table wp_term_relationships: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_term_relationships.table.gz - 0.8 KB)
+0021.555 (0) Table wp_term_taxonomy: Total expected rows (approximate): 49
+0021.561 (0) Table wp_term_taxonomy: Total rows added: 49 in 0.00 seconds
+0021.562 (0) Table wp_term_taxonomy: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_term_taxonomy.table.gz - 0.7 KB)
+0021.594 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0021.600 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0021.602 (0) Table wp_termmeta: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_termmeta.table.gz - 0.3 KB)
+0021.633 (0) Table wp_terms: Total expected rows (approximate): 49
+0021.641 (0) Table wp_terms: Total rows added: 49 in 0.01 seconds
+0021.643 (0) Table wp_terms: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_terms.table.gz - 1.4 KB)
+0021.676 (0) Table wp_blc_filters: Total expected rows (approximate): 0
+0021.680 (0) Table wp_blc_filters: Total rows added: 0 in 0.00 seconds
+0021.681 (0) Table wp_blc_filters: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_filters.table.gz - 0.3 KB)
+0021.702 (0) Table wp_blc_instances: Total expected rows (approximate): 43
+0021.708 (0) Table wp_blc_instances: Total rows added: 43 in 0.00 seconds
+0021.711 (0) Table wp_blc_instances: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_instances.table.gz - 1.9 KB)
+0021.741 (0) Table wp_blc_links: Total expected rows (approximate): 43
+0021.760 (0) Table wp_blc_links: Total rows added: 43 in 0.02 seconds
+0021.761 (0) Table wp_blc_links: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_links.table.gz - 5.2 KB)
+0021.802 (0) Table wp_blc_synch: Total expected rows (approximate): 53
+0021.809 (0) Table wp_blc_synch: Total rows added: 53 in 0.00 seconds
+0021.810 (0) Table wp_blc_synch: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_synch.table.gz - 0.6 KB)
+0021.836 (0) Table wp_cbnetpo_ping_optimizer: Total expected rows (approximate): 597
+0021.856 (0) Table wp_cbnetpo_ping_optimizer: Total rows added: 570 in 0.02 seconds
+0021.866 (0) Table wp_cbnetpo_ping_optimizer: finishing file (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_cbnetpo_ping_optimizer.table.gz - 6.2 KB)
+0021.887 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_options.table.gz (1/17): adding to final database dump
+0021.906 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_users.table.gz (2/17): adding to final database dump
+0021.915 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_usermeta.table.gz (3/17): adding to final database dump
+0021.917 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_commentmeta.table.gz (4/17): adding to final database dump
+0021.919 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_comments.table.gz (5/17): adding to final database dump
+0021.920 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_links.table.gz (6/17): adding to final database dump
+0021.922 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_postmeta.table.gz (7/17): adding to final database dump
+0021.943 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_posts.table.gz (8/17): adding to final database dump
+0021.988 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_term_relationships.table.gz (9/17): adding to final database dump
+0021.998 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_term_taxonomy.table.gz (10/17): adding to final database dump
+0022.000 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_termmeta.table.gz (11/17): adding to final database dump
+0022.001 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_terms.table.gz (12/17): adding to final database dump
+0022.003 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_filters.table.gz (13/17): adding to final database dump
+0022.004 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_instances.table.gz (14/17): adding to final database dump
+0022.014 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_links.table.gz (15/17): adding to final database dump
+0022.017 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_blc_synch.table.gz (16/17): adding to final database dump
+0022.019 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db-table-wp_cbnetpo_ping_optimizer.table.gz (17/17): adding to final database dump
+0022.025 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz: finished writing out complete database file (176 KB)
+0022.039 (0) Total database tables backed up: 17 (backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz, size: 195842, checksum (SHA1): b47f5911ec4377e2c56af436af34392fd3ef58a1)
+0022.066 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0022.068 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0022.068 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0022.069 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-others.zip: others: This file has not yet been successfully uploaded: will queue
+0022.078 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz: db: This file has not yet been successfully uploaded: will queue
+0022.079 (0) Saving backup history. Total backup size: 71.3 MB
+0022.090 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0022.110 (0) Cloud backup selection (1/1): googledrive (last)
+0022.111 (0) Beginning dispatch of backup to remote (googledrive)
+0022.117 (0) Google Drive: requesting access token: client_id=793480236374-f5s47ulsjsenef5i4rh6t3t9mc0fh4bv.apps.googleusercontent.com
+0022.374 (0) Google Drive: successfully obtained access token
+0023.535 (0) Google Drive quota usage: used=259.7 MB, total=15360 MB, available=15100.3 MB
+0023.544 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B3eFchmTc5u2YnJNLVZxUGlzLUE)
+0024.298 (0) Googledrive chunked upload: 7 % uploaded (1048576)
+0024.772 (0) Googledrive chunked upload: 13.9 % uploaded (2097152)
+0025.265 (0) Googledrive chunked upload: 20.9 % uploaded (3145728)
+0025.745 (0) Googledrive chunked upload: 27.9 % uploaded (4194304)
+0026.204 (0) Googledrive chunked upload: 34.9 % uploaded (5242880)
+0026.771 (0) Googledrive chunked upload: 41.8 % uploaded (6291456)
+0027.552 (0) Googledrive chunked upload: 48.8 % uploaded (7340032)
+0028.018 (0) Googledrive chunked upload: 55.8 % uploaded (8388608)
+0028.747 (0) Googledrive chunked upload: 62.8 % uploaded (9437184)
+0029.306 (0) Googledrive chunked upload: 69.7 % uploaded (10485760)
+0029.844 (0) Googledrive chunked upload: 76.7 % uploaded (11534336)
+0030.552 (0) Googledrive chunked upload: 83.7 % uploaded (12582912)
+0031.032 (0) Googledrive chunked upload: 90.7 % uploaded (13631488)
+0031.410 (0) Googledrive chunked upload: 97.6 % uploaded (14680064)
+0034.699 (0) Googledrive chunked upload: 100 % uploaded (14680064)
+0034.733 (0) OK: Archive backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip uploaded to Google Drive in 11.19 seconds
+0034.745 (0) Recording as successfully uploaded: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip (fe2c59635e6e48a220c0fe5e0a699249)
+0034.782 (0) Deleting local file: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-plugins.zip: OK
+0035.137 (0) Google Drive quota usage: used=274.1 MB, total=15360 MB, available=15085.9 MB
+0035.146 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip: Attempting to upload to Google Drive (into folder id: 0B3eFchmTc5u2YnJNLVZxUGlzLUE)
+0035.935 (0) Googledrive chunked upload: 3.6 % uploaded (1048576)
+0036.476 (0) Googledrive chunked upload: 7.2 % uploaded (2097152)
+0037.305 (0) Googledrive chunked upload: 10.8 % uploaded (3145728)
+0037.779 (0) Googledrive chunked upload: 14.4 % uploaded (4194304)
+0038.334 (0) Googledrive chunked upload: 18 % uploaded (5242880)
+0039.091 (0) Googledrive chunked upload: 21.6 % uploaded (6291456)
+0039.597 (0) Googledrive chunked upload: 25.2 % uploaded (7340032)
+0040.357 (0) Googledrive chunked upload: 28.8 % uploaded (8388608)
+0043.585 (0) Googledrive chunked upload: 32.4 % uploaded (9437184)
+0044.031 (0) Googledrive chunked upload: 36 % uploaded (10485760)
+0044.556 (0) Googledrive chunked upload: 39.6 % uploaded (11534336)
+0045.034 (0) Googledrive chunked upload: 43.2 % uploaded (12582912)
+0045.511 (0) Googledrive chunked upload: 46.8 % uploaded (13631488)
+0046.219 (0) Googledrive chunked upload: 50.4 % uploaded (14680064)
+0047.110 (0) Googledrive chunked upload: 54 % uploaded (15728640)
+0047.741 (0) Googledrive chunked upload: 57.6 % uploaded (16777216)
+0048.268 (0) Googledrive chunked upload: 61.2 % uploaded (17825792)
+0048.916 (0) Googledrive chunked upload: 64.8 % uploaded (18874368)
+0049.381 (0) Googledrive chunked upload: 68.4 % uploaded (19922944)
+0050.107 (0) Googledrive chunked upload: 72 % uploaded (20971520)
+0050.575 (0) Googledrive chunked upload: 75.6 % uploaded (22020096)
+0051.131 (0) Googledrive chunked upload: 79.2 % uploaded (23068672)
+0051.502 (0) Googledrive chunked upload: 82.8 % uploaded (24117248)
+0051.942 (0) Googledrive chunked upload: 86.5 % uploaded (25165824)
+0052.453 (0) Googledrive chunked upload: 90.1 % uploaded (26214400)
+0053.347 (0) Googledrive chunked upload: 93.7 % uploaded (27262976)
+0053.857 (0) Googledrive chunked upload: 97.3 % uploaded (28311552)
+0055.048 (0) Googledrive chunked upload: 100 % uploaded (28311552)
+0055.062 (0) OK: Archive backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip uploaded to Google Drive in 19.91 seconds
+0055.073 (0) Recording as successfully uploaded: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip (f2b1878628576a674e5303d49077f789)
+0055.100 (0) Deleting local file: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-themes.zip: OK
+0055.459 (0) Google Drive quota usage: used=301.8 MB, total=15360 MB, available=15058.2 MB
+0055.482 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B3eFchmTc5u2YnJNLVZxUGlzLUE)
+0056.282 (0) Googledrive chunked upload: 3.6 % uploaded (1048576)
+0056.725 (0) Googledrive chunked upload: 7.2 % uploaded (2097152)
+0057.175 (0) Googledrive chunked upload: 10.8 % uploaded (3145728)
+0057.807 (0) Googledrive chunked upload: 14.5 % uploaded (4194304)
+0058.308 (0) Googledrive chunked upload: 18.1 % uploaded (5242880)
+0058.752 (0) Googledrive chunked upload: 21.7 % uploaded (6291456)
+0059.302 (0) Googledrive chunked upload: 25.3 % uploaded (7340032)
+0059.915 (0) Googledrive chunked upload: 28.9 % uploaded (8388608)
+0060.441 (0) Googledrive chunked upload: 32.5 % uploaded (9437184)
+0060.821 (0) Googledrive chunked upload: 36.2 % uploaded (10485760)
+0061.431 (0) Googledrive chunked upload: 39.8 % uploaded (11534336)
+0061.906 (0) Googledrive chunked upload: 43.4 % uploaded (12582912)
+0062.600 (0) Googledrive chunked upload: 47 % uploaded (13631488)
+0063.004 (0) Googledrive chunked upload: 50.6 % uploaded (14680064)
+0063.478 (0) Googledrive chunked upload: 54.2 % uploaded (15728640)
+0063.849 (0) Googledrive chunked upload: 57.8 % uploaded (16777216)
+0064.313 (0) Googledrive chunked upload: 61.5 % uploaded (17825792)
+0064.696 (0) Googledrive chunked upload: 65.1 % uploaded (18874368)
+0065.234 (0) Googledrive chunked upload: 68.7 % uploaded (19922944)
+0068.005 (0) Googledrive chunked upload: 72.3 % uploaded (20971520)
+0071.523 (0) Googledrive chunked upload: 75.9 % uploaded (22020096)
+0071.874 (0) Googledrive chunked upload: 79.5 % uploaded (23068672)
+0072.293 (0) Googledrive chunked upload: 83.1 % uploaded (24117248)
+0072.641 (0) Googledrive chunked upload: 86.8 % uploaded (25165824)
+0073.407 (0) Googledrive chunked upload: 90.4 % uploaded (26214400)
+0076.440 (0) Googledrive chunked upload: 94 % uploaded (27262976)
+0076.807 (0) Googledrive chunked upload: 97.6 % uploaded (28311552)
+0077.896 (0) Googledrive chunked upload: 100 % uploaded (28311552)
+0077.916 (0) OK: Archive backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip uploaded to Google Drive in 22.42 seconds
+0077.919 (0) Recording as successfully uploaded: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip (a898dc7ec0a5343cae9feea59254e61f)
+0077.951 (0) Deleting local file: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-uploads.zip: OK
+0078.299 (0) Google Drive quota usage: used=329.5 MB, total=15360 MB, available=15030.5 MB
+0078.309 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-others.zip: Attempting to upload to Google Drive (into folder id: 0B3eFchmTc5u2YnJNLVZxUGlzLUE)
+0079.240 (0) Googledrive chunked upload: 76.5 % uploaded (1048576)
+0080.249 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0080.272 (0) OK: Archive backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-others.zip uploaded to Google Drive in 1.96 seconds
+0080.282 (0) Recording as successfully uploaded: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-others.zip (9af634568688208d0b98b06c98eedc8d)
+0080.304 (0) Deleting local file: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-others.zip: OK
+0080.659 (0) Google Drive quota usage: used=330.8 MB, total=15360 MB, available=15029.2 MB
+0080.660 (0) backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz: Attempting to upload to Google Drive (into folder id: 0B3eFchmTc5u2YnJNLVZxUGlzLUE)
+0082.301 (0) Googledrive chunked upload: 100 % uploaded
+0082.321 (0) OK: Archive backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz uploaded to Google Drive in 1.66 seconds
+0082.331 (0) Recording as successfully uploaded: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz (de11c2ccd450cd45d2f7bbcc07219ffe)
+0082.350 (0) Deleting local file: backup_2017-02-12-1522_movie001phpxdomainjp_6780b6f08c90-db.gz: OK
+0082.361 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=10, retain_db=10
+0082.363 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1484307900, 1483087800, 1483075680
+0082.364 (0) Number of backup sets in history: 5; groups (db): 1
+0082.365 (0) Examining (for databases) backup set with group_id=0, nonce=6780b6f08c90, datestamp=1486880531 (Feb 12 2017 06:22:11)
+0082.366 (0) This backup set is the backup set just made, so will not be deleted.
+0082.374 (0) Examining (for databases) backup set with group_id=0, nonce=6e42c8b2a120, datestamp=1486275531 (Feb 05 2017 06:18:51)
+0082.375 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.383 (0) Number of backup sets in history: 5; groups (files): 1
+0082.384 (0) Examining (for files) backup set with nonce=6780b6f08c90, datestamp=1486880531 (Feb 12 2017 06:22:11)
+0082.384 (0) This backup set is the backup set just made, so will not be deleted.
+0082.385 (0) This backup set is the backup set just made, so will not be deleted.
+0082.386 (0) This backup set is the backup set just made, so will not be deleted.
+0082.386 (0) This backup set is the backup set just made, so will not be deleted.
+0082.386 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.387 (0) Examining (for files) backup set with nonce=6e42c8b2a120, datestamp=1486275531 (Feb 05 2017 06:18:51)
+0082.388 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.397 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0082.418 (0) Resume backup (6780b6f08c90, 0): finish run
+0082.430 (0) Decremented the semaphore (fd) by 1
+0082.439 (0) Semaphore (fd) unlocked
+0082.440 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0082.461 (0) The backup apparently succeeded and is now complete
+0082.470 (0) No email will/can be sent - the user has not configured an email address.
+0082.471 (0) バックアップは成功し完了しました。

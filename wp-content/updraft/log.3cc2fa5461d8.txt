@@ -1,0 +1,40 @@
+0000.006 () Opened log file at time: Tue, 15 Aug 2017 14:35:00 +0000 on http://movie001.php.xdomain.jp
+0000.006 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.30 WP: 4.8.1 PHP: 5.6.30 (cgi-fcgi, Linux sv3.php.xdomain.ne.jp 2.6.18-420.el5.BET #1 SMP Tue Jun 20 12:06:33 JST 2017 x86_64) MySQL: 5.0.95 WPLANG: ja Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 21.7M | 22.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 820527.5 MB
+0000.007 () Restore job started. Entities to restore: plugins, themes, uploads, others. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.042 () Entity: plugins
+0000.042 () restore_backup(backup_file=backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:69:"/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/plugins";s:11:"description";s:15:"プラグイン";}, last_one=)
+0000.042 () バックアップ解凍中... (backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-plugins.zip, 17.7 Mb)
+0001.918 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.918 () Moving old data: can potentially use wp_filesystem method / -old
+0001.918 () 古いデータを移動...
+0009.369 () Top-level entities being moved: list-category-posts, wordpress-ping-optimizer, hello-world.php, wp-media-library-categories, contact-form-7, wp-admin-ui-customize, breadcrumb-navxt, index.php, advanced-custom-fields, jetpack, wp-multibyte-patch, dashboard-notepad, so-widgets-bundle, siteorigin-panels, broken-link-checker, akismet, wp-user-avatar, duplicate-post, hello.php, updraftplus, intuitive-custom-post-order, speech-bubble, pushpress, all-in-one-seo-pack
+0009.381 () 解凍したバックアップファイルを設置
+0016.931 () Top-level entities being moved: list-category-posts, wordpress-ping-optimizer, hello-world.php, wp-media-library-categories, contact-form-7, count-per-day, wp-admin-ui-customize, breadcrumb-navxt, index.php, advanced-custom-fields, jetpack, wp-multibyte-patch, dashboard-notepad, so-widgets-bundle, siteorigin-panels, broken-link-checker, akismet, wp-user-avatar, duplicate-post, hello.php, updraftplus, intuitive-custom-post-order, speech-bubble, pushpress, all-in-one-seo-pack
+0016.946 () クリーニング
+0016.949 () Entity: themes
+0016.949 () restore_backup(backup_file=backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-themes.zip, type=themes, info=a:2:{s:4:"path";s:68:"/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/themes";s:11:"description";s:9:"テーマ";}, last_one=)
+0016.949 () バックアップ解凍中... (backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-themes.zip, 3.1 Mb)
+0017.015 () Moving old data: filesystem method / updraft_dir is potentially possible
+0017.015 () Moving old data: can potentially use wp_filesystem method / -old
+0017.015 () 古いデータを移動...
+0021.177 () Top-level entities being moved: luna, birdsite, materialize, twentyfourteen, gk-portfolio, twentysixteen, storefront, index.php, silk-lite, twentyfifteen, fukasawa, create, cv-card, garfunkel, caos, hueman, pinboard
+0021.186 () 解凍したバックアップファイルを設置
+0021.614 () Top-level entities being moved: twentyfourteen, gk-portfolio, twentysixteen, index.php, twentyfifteen
+0021.616 () クリーニング
+0021.619 () Entity: uploads
+0021.619 () restore_backup(backup_file=backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:69:"/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/uploads";s:11:"description";s:30:"アップロードファイル";}, last_one=)
+0021.619 () バックアップ解凍中... (backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-uploads.zip, 132 Mb)
+0022.093 () Moving old data: filesystem method / updraft_dir is potentially possible
+0022.093 () Moving old data: can potentially use wp_filesystem method / -old
+0022.094 () 古いデータを移動...
+0022.541 () 解凍したバックアップファイルを設置
+0023.716 () クリーニング
+0023.718 () Entity: others
+0023.718 () restore_backup(backup_file=backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-others.zip, type=others, info=a:2:{s:4:"path";s:61:"/home/movie001/movie001.php.xdomain.jp/public_html/wp-content";s:11:"description";s:9:"その他";}, last_one=1)
+0023.718 () バックアップ解凍中... (backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-others.zip, 2.1 Mb)
+0023.815 () PHP event: code E_WARNING: copy(): The first argument to copy() function cannot be a directory (line 257, wp-admin/includes/class-wp-filesystem-direct.php)
+0023.815 () Error message: 邪魔にならないように古いファイルを移動できませんでした。 You should check the file ownerships and permissions in your WordPress installation (/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/languages)
+0023.815 () Restore failed...
+0023.815 () Error message: 邪魔にならないように古いファイルを移動できませんでした。 You should check the file ownerships and permissions in your WordPress installation (/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/languages)
+0023.815 () Restore failed

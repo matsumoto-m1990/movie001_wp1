@@ -1,0 +1,59 @@
+== Change log ==
+
+= 2.3.1 =
+* Bug Fixed: white space issue
+* Updated: theme tags
+* Updated: All instances of http://catchthemes.com changed to https://catchthemes.com
+
+= 2.3 =
+* Added: Custom Header Support
+
+= 2.2 =
+* Added: Custom Logo( Core Support ) for WP version 4.5
+
+= 2.1 =
+* Added German translation de_DE.po and de_DE 
+* Bug Fixed: Site title line height issue
+
+= 2.0 =
+* Added: Theme Options -> Custom CSS option, Excerpt Options, Homepage / Frontpage Settings, Layout Options, ScrollUp Options, Pagination Options and Search Options
+* Added: Metabox Options
+* Bug Fixed: infinite scroll issue
+* Bug Fixed: Layout issues in Static Homepage(Reported by kerrigo)
+* Updated: Genericons to version 3.4.1
+
+= 1.3 =
+* Added Featured Slider
+* Compatible with WordPress 4.3
+* Removed support for WordPress version less than 4.1
+
+= 1.2 =
+* Added title tag via add theme support
+* Added Important links section to Theme Customizer
+* Added three-columns tag
+* Bug Fixed: body_class when there is no sidebar
+* Bug Fixed: Image Size and styles
+* Bug Fixed: Extra css and border issue in style.css
+* Bug Fixed: Classes for excerpt and content fixed in content.php
+* Bug Fixed: Added missing keyword _nx:1,2,4c and esc_html__ in language file create.pot
+* Removed unnecessary font: Alegreya in blockquote
+
+
+= 1.1 =
+* Initial Release in Catchthemes.com
+* Updated instructions and links in Readme.txt
+* Fixed spacing issues in style.css
+* Fixed navigation position in homepage
+* Removed unnecessary layouts directory
+* Removed unnecessary files
+
+= 1.0 =
+* Added create_footer hook
+* Changed footer codes
+* Changed theme description
+* Fixed Google Font issues
+* Fixed style issues
+* Replaced typicons with genericons version 3.3
+
+= 0.1 =
+* Submitted to WordPress.org

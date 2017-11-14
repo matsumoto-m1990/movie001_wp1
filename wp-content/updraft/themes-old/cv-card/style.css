@@ -1,0 +1,17 @@
+/*
+Theme Name: CV Card
+Theme URI: http://burak-aydin.com/cvcard-page/
+Author: Burak Aydin
+Author URI: http://burak-aydin.com/
+Description: CV Card is a vCard Theme for your personal purpose. It is like an online CV. It have simple blog ,portfolio and works well with all devices. The theme have 6 custom page template ( About, Blog, Contact, Homepage, Portfolio, Resume ) and custom post type ( Portfolio ). Fully Responsive ( include video too ), Customizable. Using Twitter Bootstrap 3, Microformats and Font Awesome icons. CV Card Theme supports post formats ( audio and video ). Theme Features: Advanced Custom Fields, Contact Form, Custom Background Support, Custom Menu ( 1 Level ), Custom Colors, Google Fonts, Google Maps, Featured Images, Post Formats, Masonry Style for blog page, Microformats, Responsive Video, Redux Framework, Smooth Scroll. You should go to theme url in order to learn more about the theme. Also please read the documentation how to customize and place pages, more.
+Version: 1.2.4
+Tags: black, yellow, one-column, four-columns, responsive-layout, custom-background, custom-colors, custom-menu, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+Text Domain: cvcard
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+This theme is licensed under the GPL.
+*/
+
+@import url('css/bootstrap.css');
+@import url('css/font-awesome.css');
+@import url('css/style.css');

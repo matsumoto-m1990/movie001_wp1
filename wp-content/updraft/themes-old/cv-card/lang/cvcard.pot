@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CV Card WordPress Theme\n"
+"POT-Creation-Date: 2014-06-28 11:31+0200\n"
+"PO-Revision-Date: 2014-06-28 11:32+0200\n"
+"Last-Translator: Burak Aydın <burak_sdu@outlook.com>\n"
+"Language-Team: Burak AYDIN <burak_sdu@outlook.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/options-init.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: ../admin/options-init.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../admin/options-init.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/options-init.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../admin/options-init.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../admin/options-init.php:209
+msgid "Tags"
+msgstr ""
+
+#: ../admin/options-init.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../admin/options-init.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../admin/options-init.php:240
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/options-init.php:246
+msgid "Image should be ico format and 16x16 size ( Exp: favicon.ico ) "
+msgstr ""
+
+#: ../admin/options-init.php:247
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/options-init.php:248
+msgid "Upload your custom favicon."
+msgstr ""
+
+#: ../admin/options-init.php:255
+msgid "CSS Code"
+msgstr ""
+
+#: ../admin/options-init.php:256
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../admin/options-init.php:265
+msgid "jQuery Code"
+msgstr ""
+
+#: ../admin/options-init.php:266
+msgid "Paste your jQuery code here."
+msgstr ""
+
+#: ../admin/options-init.php:276
+msgid "Footer Text"
+msgstr ""
+
+#: ../admin/options-init.php:277
+msgid "Text will be displayed left side of footer"
+msgstr ""
+
+#: ../admin/options-init.php:278
+msgid "Copyright 2014 CV Card. All Rights Reserved."
+msgstr ""
+
+#: ../admin/options-init.php:284
+msgid "Credit Links"
+msgstr ""
+
+#: ../admin/options-init.php:285
+msgid "Links : wordpress.org and burak-aydin.com"
+msgstr ""
+
+#: ../admin/options-init.php:298
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../admin/options-init.php:307
+msgid "Your Photo"
+msgstr ""
+
+#: ../admin/options-init.php:314
+msgid "Your Name"
+msgstr ""
+
+#: ../admin/options-init.php:315 ../admin/options-init.php:323
+msgid "It will place below the your photo."
+msgstr ""
+
+#: ../admin/options-init.php:322
+msgid "Your Job"
+msgstr ""
+
+#: ../admin/options-init.php:330
+msgid "Resume File"
+msgstr ""
+
+#: ../admin/options-init.php:333
+msgid "You can upload your resume."
+msgstr ""
+
+#: ../admin/options-init.php:334
+msgid "File format should be .zip"
+msgstr ""
+
+#: ../admin/options-init.php:347
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../admin/options-init.php:348
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../admin/options-init.php:349
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../admin/options-init.php:353
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../admin/options-init.php:361
+msgid "Import / Export"
+msgstr ""
+
+#: ../admin/options-init.php:362
+msgid "Import and Export your framework settings from file, text or URL."
+msgstr ""
+
+#: ../admin/options-init.php:381
+msgid "Theme Information"
+msgstr ""
+
+#: ../admin/options-init.php:382
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../admin/options-init.php:400
+msgid "CV Card"
+msgstr ""
+
+#: ../admin/options-init.php:401
+msgid "<p>If you have any issue about the theme, please contact with me.</p>"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:212
+#: ../admin/tgm/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:556
+#: ../admin/tgm/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1304
+#: ../admin/tgm/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1326
+#: ../admin/tgm/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2079
+#: ../admin/tgm/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2079
+#: ../admin/tgm/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/tgm/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../category.php:10
+msgid "Category Posts for "
+msgstr ""
+
+#: ../comments.php:9
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer-blog.php:23
+msgid "Theme by"
+msgstr ""
+
+#: ../footer-blog.php:23
+msgid "Powered by"
+msgstr ""
+
+#: ../format-audio.php:9 ../format-video.php:9 ../format.php:9 ../page.php:17
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:25
+msgid "Top Menu"
+msgstr ""
+
+#: ../tag.php:10
+msgid "Category Posts for"
+msgstr ""
+
+#: ../template-homepage.php:160
+msgid "download resume"
+msgstr ""
+
+#: ../template-portfolio.php:12
+msgid "All"
+msgstr ""

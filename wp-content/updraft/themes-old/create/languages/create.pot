@@ -1,0 +1,824 @@
+# Copyright (C) 2016 Catch Themes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Create\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/support-forum/forum/create-"
+"free/\n"
+"POT-Creation-Date: 2016-10-28 22:22+0545\n"
+"PO-Revision-Date: 2016-10-28 22:22+0545\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
+"_nx:1,2,4c;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ create
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+# @ create
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+# @ create
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+# @ create
+#. translators: %1$s: smiley
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ create
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+# @ create
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ create
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ create
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+# @ create
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+# @ create
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ create
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ create
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ create
+#: ../content-page.php:20 ../content-single.php:23 ../content.php:39
+msgid "Pages:"
+msgstr ""
+
+# @ create
+#: ../content-page.php:27 ../inc/template-tags.php:144
+msgid "Edit"
+msgstr ""
+
+# @ create
+#: ../content.php:34
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ create
+#: ../functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+# @ create
+#: ../functions.php:64
+msgid "Social Menu"
+msgstr ""
+
+# @ create
+#: ../functions.php:123
+msgid "Sidebar"
+msgstr ""
+
+# @ create
+#: ../functions.php:125
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+# @ create
+#: ../functions.php:133
+msgid "Intro Widget"
+msgstr ""
+
+# @ create
+#: ../functions.php:135
+msgid "Additional widget that appears only on your default homepage."
+msgstr ""
+
+# @ create
+#: ../functions.php:154
+msgid "Your Name"
+msgstr ""
+
+# @ create
+#: ../functions.php:155
+msgid "E-mail"
+msgstr ""
+
+# @ create
+#: ../functions.php:156
+msgid "Website"
+msgstr ""
+
+# @ create
+#: ../functions.php:157
+msgid "Your Comment"
+msgstr ""
+
+# @ create
+#: ../functions.php:259
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:12
+msgid "Featured Slider"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:29
+msgid "Enable Slider on"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:51
+msgid "Transition Effect"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:68
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:87
+msgid "seconds(s)"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:72
+msgid "Transition Delay"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:91
+msgid "Transition Length"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:113
+msgid "Image Loader"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:135
+msgid "Select Slider Type"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:150
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:157
+msgid "No of Slides"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-featured-slider-options.php:177
+msgid "Featured Page"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:10
+msgid "Basic theme Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:18
+msgid "Custom/Inline CSS"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:21
+msgid "Custom CSS Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:31
+msgid "Enter Custom CSS"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:43
+msgid "Excerpt Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:53
+msgid "Excerpt length. Default is 40 words"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:60
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:74
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:106
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:112
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:115
+msgid "Homepage / Frontpage Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:125
+msgid "Select Categories"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:139
+#: ../inc/metabox.php:85
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:156
+msgid "Frontpage Posts Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:175
+msgid "Default Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:201
+msgid "Archive Content Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:221
+#: ../inc/metabox.php:87
+msgid "Single Page/Post Image Layout "
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:239
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:247
+msgid "Pagination Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:264
+msgid "Pagination type"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:275
+msgid "Scrollup Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:285
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:294
+msgid "Change default placeholder text in Search."
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:297
+msgid "Search Options"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer-theme-options.php:307
+msgid "Default Display Text in Search"
+msgstr ""
+
+#: ../inc/customizer.php:28
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+
+#: ../inc/customizer.php:30
+msgid "Reset all settings"
+msgstr ""
+
+#: ../inc/customizer.php:41
+msgid "Check to reset all settings to default"
+msgstr ""
+
+#: ../inc/customizer.php:56
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/customizer.php:60
+msgid "Support"
+msgstr ""
+
+#: ../inc/customizer.php:64
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/customizer.php:68
+msgid "Donate Now"
+msgstr ""
+
+#: ../inc/customizer.php:72
+msgid "Review"
+msgstr ""
+
+#: ../inc/customizer.php:76
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer.php:80
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer.php:84
+msgid "Google+"
+msgstr ""
+
+#: ../inc/customizer.php:88
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer.php:100 ../inc/customizer.php:111
+msgid "Important Links"
+msgstr ""
+
+#: ../inc/customizer.php:140
+msgid "Upgrade To Pro &raquo;"
+msgstr ""
+
+#: ../inc/default-options.php:32
+msgid "[ . . . ]"
+msgstr ""
+
+#: ../inc/default-options.php:38
+msgid "Search..."
+msgstr ""
+
+#: ../inc/default-options.php:73
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: ../inc/default-options.php:77
+msgid "Entire Site"
+msgstr ""
+
+#: ../inc/default-options.php:81 ../inc/default-options.php:291
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/default-options.php:97
+msgid "Demo Featured Slider"
+msgstr ""
+
+#: ../inc/default-options.php:101
+msgid "Featured Page Slider"
+msgstr ""
+
+#: ../inc/default-options.php:118
+msgid "Fade"
+msgstr ""
+
+#: ../inc/default-options.php:122
+msgid "Fade Out"
+msgstr ""
+
+#: ../inc/default-options.php:126
+msgid "None"
+msgstr ""
+
+#: ../inc/default-options.php:130
+msgid "Scroll Horizontal"
+msgstr ""
+
+#: ../inc/default-options.php:134
+msgid "Scroll Vertical"
+msgstr ""
+
+#: ../inc/default-options.php:138
+msgid "Flip Horizontal"
+msgstr ""
+
+#: ../inc/default-options.php:142
+msgid "Flip Vertical"
+msgstr ""
+
+#: ../inc/default-options.php:146
+msgid "Tile Slide"
+msgstr ""
+
+#: ../inc/default-options.php:150
+msgid "Tile Blind"
+msgstr ""
+
+#: ../inc/default-options.php:154
+msgid "Shuffle"
+msgstr ""
+
+#: ../inc/default-options.php:170
+msgid "True"
+msgstr ""
+
+#: ../inc/default-options.php:174
+msgid "Wait"
+msgstr ""
+
+#: ../inc/default-options.php:178
+msgid "False"
+msgstr ""
+
+#: ../inc/default-options.php:195 ../inc/default-options.php:214
+#: ../inc/default-options.php:342
+msgid "Primary Sidebar, Content"
+msgstr ""
+
+#: ../inc/default-options.php:199 ../inc/default-options.php:218
+#: ../inc/default-options.php:347
+msgid "No Sidebar ( Full Width )"
+msgstr ""
+
+#: ../inc/default-options.php:234
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../inc/default-options.php:238
+msgid "Show Full Content (No Featured Image)"
+msgstr ""
+
+#: ../inc/default-options.php:254 ../inc/default-options.php:287
+#: ../inc/default-options.php:404
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/default-options.php:258
+msgid "Full Image"
+msgstr ""
+
+#: ../inc/default-options.php:262
+msgid "Large Image"
+msgstr ""
+
+#: ../inc/default-options.php:279 ../inc/default-options.php:394
+msgid "Large"
+msgstr ""
+
+#: ../inc/default-options.php:283
+msgid "Full size"
+msgstr ""
+
+#: ../inc/default-options.php:307
+msgid "Default(Older Posts/Newer Posts)"
+msgstr ""
+
+#: ../inc/default-options.php:311
+msgid "Numeric"
+msgstr ""
+
+#: ../inc/default-options.php:315
+msgid "Infinite Scroll (Scroll)"
+msgstr ""
+
+#: ../inc/default-options.php:319
+msgid "Infinite Scroll (Click)"
+msgstr ""
+
+#: ../inc/default-options.php:337 ../inc/default-options.php:363
+#: ../inc/default-options.php:389
+msgid "Default"
+msgstr ""
+
+#: ../inc/default-options.php:368
+msgid "Enable"
+msgstr ""
+
+#: ../inc/default-options.php:373
+msgid "Disable"
+msgstr ""
+
+#: ../inc/default-options.php:399
+msgid "Full Size"
+msgstr ""
+
+#: ../inc/default-options.php:409
+msgid "Disable Image"
+msgstr ""
+
+#: ../inc/extras.php:100
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/extras.php:112
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/extras.php:113
+msgid "By"
+msgstr ""
+
+#: ../inc/extras.php:321
+msgid "Scroll Up"
+msgstr ""
+
+#: ../inc/featured-slider.php:165
+msgid "Permalink to:"
+msgstr ""
+
+#: ../inc/metabox.php:86
+msgid "Header Featured Image Options"
+msgstr ""
+
+#: ../inc/metabox.php:213
+msgid "Create Options"
+msgstr ""
+
+# @ create
+#: ../inc/structure.php:55
+msgid "Skip to content"
+msgstr ""
+
+# @ create
+#: ../inc/structure.php:120
+msgid "Menu"
+msgstr ""
+
+#: ../inc/structure.php:374
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "&copy; %1$s %2$s"
+msgstr ""
+
+#: ../inc/structure.php:404
+msgctxt "attribution"
+msgid "by"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+msgid "Previous page"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "Next page"
+msgstr ""
+
+#: ../inc/template-tags.php:35
+msgid "Page"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:41
+msgid "Posts navigation"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:45
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:49
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:74
+msgid "Post navigation"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:77
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:78
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:104
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:109
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+# @ create
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:126 ../inc/template-tags.php:132
+msgid ", "
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:128
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:134
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:140
+msgid "Leave a comment"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:140
+msgid "1 Comment"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:140
+msgid "% Comments"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:161
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:163
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:165
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:167
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:167
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:169
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:169
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:171
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:171
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:191
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+# @ create
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../inc/template-tags.php:195
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+# @ create
+#: ../inc/template-tags.php:197 ../sidebar.php:23
+msgid "Archives"
+msgstr ""
+
+# @ create
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:14 ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

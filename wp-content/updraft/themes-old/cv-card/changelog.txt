@@ -1,0 +1,19 @@
+== 1.2.1 ==
+Fixed: Some minor issues.
+
+== 1.1.2 ==
+Added : Three More Skills Area
+
+== 1.1.1 ==
+Changed : Screenshot
+Fixed : Some minor issue in portfolio template
+
+== 1.1.0 ==
+Some CSS fixing
+Adding one more skills and experience area
+
+== 1.0.3 ==
+Some CSS revision
+
+== 1.0.0 ==
+Initial release

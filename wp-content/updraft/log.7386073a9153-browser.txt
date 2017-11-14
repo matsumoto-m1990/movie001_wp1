@@ -1,0 +1,4 @@
+0000.039 (R) [notice] pluginsのアーカイブを探して：ファイル名：backup_2017-08-15-2241_movie001phpxdomainjp_a6800f87b1a0-plugins.zip
+0000.039 (R) [notice] アーカイブのサイズであることが期待されます。 18146.9 KB: OK
+0000.041 (R) [warning] エラー: 前の復元が未削除フォルダを存在（再試行する前にそれらを削除するには、「古いディレクトリを削除」ボタンを使用してください）：/home/movie001/movie001.php.xdomain.jp/public_html/wp-content/plugins-old
+0000.042 (R) [notice] 復元エラー...
